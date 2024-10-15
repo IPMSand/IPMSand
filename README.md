@@ -1,4 +1,4 @@
-<p align="center">
+<p align="left">
   <img src="https://readme-typing-svg.demolab.com/?lines=Hi+😺+I+am+Maheshika+Sandamini ;&font=Fira%20Code&center=true&width=580&height=80&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
 </p>
 
