@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hi+😺+I+am+Maheshika+Sandamini ;&font=Fira%20Code&center=true&width=580&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hi+😺+I+am+Maheshika+Sandamini ;&font=Fira%20Code&center=true&width=580&height=0&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
 </p>
 
-
+- 😆 Hi I'm @IPMSand
 - 👀 I’m interested in experimenting with coding
 -  🌱 I’m currently learning BSc(Hons) Computer Science in Plymouth University, United Kingdom. (2nd Yaer undergraduate)
 - 💞️ I’m looking to collaborate on projects for to practise my coding skills .Especailly on Java , C# and Python
