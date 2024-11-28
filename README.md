@@ -11,7 +11,7 @@
 - ⚡ Fun fact: I'm not lazy, I'm just on energy-saving mode 😴
 - 🍫 Likes: Anything with chocalate.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IPMSand&layout=pie)](https://github.com/IPMSand/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IPMSand&layout=donut)](https://github.com/IPMSand/github-readme-stats)
   
 <h3 align="left">I'm Currently Learning </h3>
 <p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a><a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>  </p>
