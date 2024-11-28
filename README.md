@@ -8,7 +8,7 @@
 - 💞️ I’m looking to collaborate on projects for to practise my coding skills .Especailly on Java, C# and Python
 - 📫 How to reach me ...
 - 😄 Pronouns: she/shi
-- ⚡ Fun fact: Allways working on computer or ! 😴
+- ⚡ Fun fact: I'm not lazy, I'm just on energy-saving mode 😴
 - 🍫 Likes: Anything with chocalate.
   
 <h3 align="left">I'm Currently Learning </h3>
