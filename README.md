@@ -10,7 +10,7 @@
 - 😄 Pronouns: she/shi
 - ⚡ Fun fact: I'm not lazy, I'm just on energy-saving mode 😴
 - 🍫 Likes: Anything with chocalate.
-  <div align="center">
+  <div align="left">
   <a href="https://github.com/IPMSand">
     <img src="https://github-readme-stats.vercel.app/api?username=IPMSand&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   </a>
