@@ -19,7 +19,9 @@
 <h3 align="left">I'm Currently Learning </h3>
 <p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a><a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>  </p>
 
-<div style="width:100%;height:0;padding-bottom:75%;position:relative;"><img src="https://giphy.com/embed/3og0IJUoogowx3W6nm" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></img></div><p><a href="https://giphy.com/gifs/water-sleep-motion-graphics-3og0IJUoogowx3W6nm">via GIPHY</a></p>
+<div style="width: 300px; height: 200px;">  <iframe src="https://giphy.com/embed/3og0IJUoogowx3W6nm" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen <?php echo (isset($_GET['autoplay']) && $_GET['autoplay'] == 1) ? 'autoplay=1' : ''; ?>></iframe>
+</div>
+<p><a href="https://giphy.com/gifs/water-sleep-motion-graphics-3og0IJUoogowx3W6nm">via GIPHY</a></p>
 
 <!---
 IPMSand/IPMSand is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
