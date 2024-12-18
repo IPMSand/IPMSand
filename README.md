@@ -1,10 +1,9 @@
 <div style="float: left; margin: 0 10px 10px 0;">
   <img src="cat.gif" alt="Image description" />
-  <h1><p align="right">
+</div>
+  <h1><p align="left">
   <img src="https://readme-typing-svg.demolab.com/?lines=Hi+😺+I+am+Maheshika+Sandamini ;&size=22rem&font=Fira%20Code&center=true&width=900&height=80&duration=5000&pause=1000" alt="Example Usage - README Typing SVG">
 </p></h1>
-</div>
-
 
 - 😆  My GitHUB @IPMSand
 - 👀 I’m interested in ...
