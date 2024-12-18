@@ -1,5 +1,5 @@
 <h1><p align="left">
-  <img alt="Hola" height="70px" width="70px" align="center" src="https://c.tenor.com/fYg91qBpDdgAAAAi/bongo-cat-transparent.gif"></img>
+<div style="width:100%;height:0;padding-bottom:75%;position:relative;"><iframe src="https://giphy.com/embed/3og0IJUoogowx3W6nm" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/water-sleep-motion-graphics-3og0IJUoogowx3W6nm">via GIPHY</a></p>
   <img src="https://readme-typing-svg.demolab.com/?lines=Hi+😺+I+am+Maheshika+Sandamini ;&font=Fira%20Code&center=true&width=500&height=60&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
 </p></h1>
 
