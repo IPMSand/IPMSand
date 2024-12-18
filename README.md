@@ -12,7 +12,7 @@
 - ⚡ Fun fact: I'm not lazy, I'm just on energy-saving mode 😴
 - 🍫 Likes: Anything with chocalate.
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/IMSand/[AvatarNumber].png" width="100px;" alt="Maheshi">
+  <img src="https://avatars.githubusercontent.com/IMSand/IPMSand.png" width="100px;" alt="Maheshi">
 </div>
 
 <h3 align="left">I'm Currently Learning </h3>
