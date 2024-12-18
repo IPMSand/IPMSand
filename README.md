@@ -1,7 +1,8 @@
 <h1><p align="left">
+  <img alt="Hola" height="70px" width="70px" align="center" src="https://c.tenor.com/fYg91qBpDdgAAAAi/bongo-cat-transparent.gif"></img>
   <img src="https://readme-typing-svg.demolab.com/?lines=Hi+😺+I+am+Maheshika+Sandamini ;&font=Fira%20Code&center=true&width=500&height=60&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
 </p></h1>
-<img alt="Hola" height="70px" width="70px" align="center" src="https://c.tenor.com/fYg91qBpDdgAAAAi/bongo-cat-transparent.gif"></img><br>
+
 - 😆  My GitHUB @IPMSand
 - 👀 I’m interested in ...
 -  🌱 I’m currently learning BSc(Hons) Computer Science in Plymouth University, United Kingdom. (2nd Yaer undergraduate)
