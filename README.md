@@ -22,7 +22,10 @@
 <div style="width: 300px; height: 200px;">  <iframe src="https://giphy.com/embed/3og0IJUoogowx3W6nm" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen <?php echo (isset($_GET['autoplay']) && $_GET['autoplay'] == 1) ? 'autoplay=1' : ''; ?>></iframe>
 </div>
 <p><a href="https://giphy.com/gifs/water-sleep-motion-graphics-3og0IJUoogowx3W6nm">via GIPHY</a></p>
-
+<div style="width: 300px; height: 200px;">
+  <iframe src="https://giphy.com/embed/3og0IJUoogowx3W6nm" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+</div>
+<p><a href="https://giphy.com/gifs/water-sleep-motion-graphics-3og0IJUoogowx3W6nm">via GIPHY</a></p>
 <!---
 IPMSand/IPMSand is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
