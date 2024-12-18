@@ -19,13 +19,9 @@
 <h3 align="left">I'm Currently Learning </h3>
 <p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a><a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>  </p>
 
-<div style="width: 300px; height: 200px;">  <iframe src="https://giphy.com/embed/3og0IJUoogowx3W6nm" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen <?php echo (isset($_GET['autoplay']) && $_GET['autoplay'] == 1) ? 'autoplay=1' : ''; ?>></iframe>
-</div>
-<p><a href="https://giphy.com/gifs/water-sleep-motion-graphics-3og0IJUoogowx3W6nm">via GIPHY</a></p>
-<div style="width: 300px; height: 200px;">
-  <iframe src="https://giphy.com/embed/3og0IJUoogowx3W6nm" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
-</div>
-<p><a href="https://giphy.com/gifs/water-sleep-motion-graphics-3og0IJUoogowx3W6nm">via GIPHY</a></p>
+<p align="center">
+  <img src="https://i.imgur.com/[your_gif_link.gif](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3FldzRrMGx1cTd3NW44anhpZWFzbTRodHV0MXMyOWMweGt5MmlsZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3og0IJUoogowx3W6nm/giphy.gif)" alt="Your GIF">
+</p>
 <!---
 IPMSand/IPMSand is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
