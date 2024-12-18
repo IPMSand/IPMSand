@@ -1,4 +1,4 @@
-<div style="float: left; margin: 0 100px 100px 0;">
+<div style="float: left; ">
   <img src="cat.gif" alt="Image description" />
 </div>
   <h1><p align="left">
