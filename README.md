@@ -1,5 +1,5 @@
 <h1><p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hi+😺+I+am+Maheshika+Sandamini ;&size=42rem&font=Fira%20Code&center=true&width=900&height=80&duration=7000&pause=1000" alt="Example Usage - README Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hi+😺+I+am+Maheshika+Sandamini ;&size=42rem&font=Fira%20Code&center=true&width=900&height=80&duration=5000&pause=1000" alt="Example Usage - README Typing SVG">
 </p></h1>
 
 - 😆  My GitHUB @IPMSand
