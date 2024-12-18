@@ -1,7 +1,7 @@
 <h1><p align="left">
   <img src="https://readme-typing-svg.demolab.com/?lines=Hi+😺+I+am+Maheshika+Sandamini ;&font=Fira%20Code&center=true&width=500&height=60&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
 </p></h1>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Maheshi!;I'm+a+Developer...;I'm+also+Computer-science-undergraduate;And+I'm+a+proud+sl+lk)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Ahmad!;I'm+a+Flutter+Developer...;I'm+also+Machine+Learning+Engineer;And+I'm+a+proud+Pakistani+🇵🇰)](https://git.io/typing-svg)
 - 😆  My GitHUB @IPMSand
 - 👀 I’m interested in ...
 -  🌱 I’m currently learning BSc(Hons) Computer Science in Plymouth University, United Kingdom. (2nd Yaer undergraduate)
