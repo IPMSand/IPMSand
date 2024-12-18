@@ -20,7 +20,7 @@
 <p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a><a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>  </p>
 
 <p align="center">
-  <img src="https://i.imgur.com/[your_gif_link.gif](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3FldzRrMGx1cTd3NW44anhpZWFzbTRodHV0MXMyOWMweGt5MmlsZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3og0IJUoogowx3W6nm/giphy.gif)" alt="Your GIF">
+  <img src="https://i.imgur.com/https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTZqdTh6cGNpcnd0d2NpeWhrY2c2d2d5cWtycTdya3NreGVwYXg4ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Xq6sEYDnzUgN3NXf4m/giphy.gif" alt="Your GIF">
 </p>
 <!---
 IPMSand/IPMSand is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
