@@ -2,7 +2,7 @@
   <img src="cat.gif" alt="Image description" />
 </div>
   <h1><p align="left">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hi+😺+I+am+Maheshika+Sandamini ;&size=22rem&font=Fira%20Code&center=true&width=900&height=80&duration=5000&pause=1000" alt="Example Usage - README Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hi+😺+I+am+Maheshika+Sandamini ;&size=22rem&font=Fira%20Code&center=true&width=600&height=80&duration=5000&pause=1000" alt="Example Usage - README Typing SVG">
 </p></h1>
 
 - 😆  My GitHUB @IPMSand
