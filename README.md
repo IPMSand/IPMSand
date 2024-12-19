@@ -1,3 +1,6 @@
+<div style="float: left; ">
+  <img src="cat.gif" alt="Image description" -README />
+</div>
 <div style="float: left; width:20px; ">
   <img src="cat.gif" alt="Image description" -README />
 </div>
