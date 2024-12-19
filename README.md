@@ -1,8 +1,5 @@
-<div style="float: left; ">
-  <img src="cat.gif" alt="Image description" -README />
-</div>
 <div style="float: left; width:20px; ">
-  <img src="cat.gif" alt="Image description" -README />
+  <img src="gip.gif" alt="Image description" -README />
 </div>
   <h1><p align="left">
   <img src="https://readme-typing-svg.demolab.com/?lines=Hi+😺+I+am+Maheshika+Sandamini ;&size=22rem&font=Fira%20Code&center=true&width=600&height=60&duration=5000&pause=1000" alt="Example Usage - README Typing SVG">
