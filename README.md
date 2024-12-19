@@ -1,5 +1,5 @@
   <h1><p align="left">
- <img align="left" width="100" height="100" src="gip.gif"> <img src="https://readme-typing-svg.demolab.com/?lines=Hi+😺+I+am+Maheshika+Sandamini ;&size=22rem&font=Fira%20Code&center=true&width=600&height=60&duration=5000&pause=1000" alt="Example Usage - README Typing SVG"> <img align="right" width="100" height="100" src="cat.gif">
+ <img align="left" width="100" height="100" src="gip.gif"> <img src="https://readme-typing-svg.demolab.com/?lines=Hi+😺+I+am+Maheshika+Sandamini ;&size=22rem&font=Fira%20Code&center=true&width=600&height=70&duration=5000&pause=1000" alt="Example Usage - README Typing SVG"> <img align="right" width="100" height="100" src="cat.gif">
 </p> </h1>
 
 - 😆  My GitHUB @IPMSand                                                                                                  
