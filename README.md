@@ -1,3 +1,7 @@
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/HerobrineTV/HerobrineTV/main/assets/name.svg" alt="Maheshika Sandamini" />
+</h1>
+ 
  <p align="center">
   <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=971AD1&center=true&vCenter=true&width=635&height=80&lines=I.P.+M+Sandamini" alt="Typing SVG"/>
