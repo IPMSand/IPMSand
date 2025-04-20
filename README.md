@@ -1,4 +1,4 @@
-<img align="left" width="80" height="90" src="gip.gif">
+<img align="left" width="80" height="80" src="gip.gif">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=25&duration=3500&pause=100&color=A7C7E7&background=FFE33F00&center=true&width=636&lines=Hi+!;I'm+Maheshika+Sandamini" alt="Typing SVG">
   </a>
