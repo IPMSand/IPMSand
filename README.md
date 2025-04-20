@@ -2,7 +2,7 @@
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=25&duration=3500&pause=600&color=B3B2AC&background=FFE33F00&center=true&width=636&lines=Hi+,+There;A+Beautiful+Sky;A+Beautiful+Ocean" alt="Typing SVG">
   </a>
-
+<p></p>
 - 😆  My GitHUB account: @IPMSand                                                                                                  
 - 👀 I’m interested in ...
 -  🌱 I’m currently learning BSc(Hons) Computer Science in Plymouth University, United Kingdom. (2nd Yaer undergraduate)
