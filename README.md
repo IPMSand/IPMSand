@@ -22,9 +22,8 @@
 <h3 align="left">Projects I Have Done are: </h3>
 
 <div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
+  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
 </div>
-
 
   
 <!---
