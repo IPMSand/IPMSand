@@ -4,7 +4,7 @@
   </a>
 </p>
   <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=3000&color=971AD1&center=true&vCenter=true&width=835&height=180&lines=I.P.+M+Sandamini" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=3000&color=971AD1&center=true&vCenter=false&width=435&height=80&lines=I.P.+M+Sandamini" alt="Typing SVG"/>
   </a>
 
 - 😆  My GitHUB account: @IPMSand                                                                                                  
