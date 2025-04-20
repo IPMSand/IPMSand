@@ -3,6 +3,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=25&duration=3500&pause=600&color=B3B2AC&background=FFE33F00&center=true&width=536&lines=Hi+,+There;A+Beautiful+Sky;A+Beautiful+Ocean" alt="Typing SVG">
   </a>
 </p>
+<img align="left" width="100" height="100" src="gip.gif">
 
 - 😆  My GitHUB account: @IPMSand                                                                                                  
 - 👀 I’m interested in ...
