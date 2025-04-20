@@ -1,6 +1,8 @@
-  <h1><p align="left">
- <img align="left" width="100" height="100" src="gip.gif"> <img src="https://readme-typing-svg.demolab.com/?lines=Hi+😺+I+am+Maheshika+Sandamini ;&size=32rem&font=Fira%20Code&center=true&width=600&height=70&duration=4000&pause=1200" alt="Error "> 
-</p> </h1>
+ <p align="center">
+  <a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=971AD1&center=true&vCenter=true&width=435&height=20&lines=I.P.+M+Sandamini" alt="Typing SVG"/>
+  </a>
+</p>
 
 - 😆  My GitHUB account: @IPMSand                                                                                                  
 - 👀 I’m interested in ...
