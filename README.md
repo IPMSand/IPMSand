@@ -3,12 +3,9 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=25&duration=3500&pause=600&color=B3B2AC&background=FFE33F00&center=true&width=536&lines=Hi+,+There;A+Beautiful+Sky;A+Beautiful+Ocean" alt="Typing SVG">
   </a>
 </p>
- 
- <p align="center">
   <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=971AD1&center=true&vCenter=true&width=635&height=80&lines=I.P.+M+Sandamini" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=3000&color=971AD1&center=true&vCenter=true&width=835&height=180&lines=I.P.+M+Sandamini" alt="Typing SVG"/>
   </a>
-</p>
 
 - 😆  My GitHUB account: @IPMSand                                                                                                  
 - 👀 I’m interested in ...
