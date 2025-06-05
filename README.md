@@ -12,9 +12,9 @@
 - 💞️ I’m looking to collaborate on various projects to practise my coding skills .Especailly on Java, C# and Python
 - 🪄Tech-related interests are Data science, Software engineering 
 - 📫 How to reach me ...
-- 😄 Pronouns: anonymous 
+- 😄 Pronouns: 
 - ⚡ Fun fact: I'm not lazy, I'm just on energy-saving mode 😴
-- 🍫 Likes: Anything with chocalate.
+- 🍫 Likes: 🍫
 
 
 <h3 align="left">I'm Currently Learning </h3>
