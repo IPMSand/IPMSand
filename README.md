@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.demolab.com/?lines=Hi!;I'm+Maheshika+Sandamini.&font=Orbitron&size=30&color=3498DB&center=true&vCenter=true&pause=1000&duration=2000&background=2C3E50&width=800" alt="Mysterious Intro Typing SVG" style="display: block; margin: 0 auto;">
+<img src="https://readme-typing-svg.demolab.com/?lines=Hi!;I'm+Maheshika+Sandamini.&font=Orbitron&size=30&color=3498DB&center=true&vCenter=true&pause=1000&duration=2000&background=2C3E50&width=800&height=100" alt="Mysterious Intro Typing SVG" style="display: block; margin: 0 auto;">
 
 <div align="center"> <img src="https://readme-typing-svg.demolab.com/?lines=A+Computer+Science+Undergraduate.&font=Orbitron&size=20&color=3498DB&center=true&vCenter=true&pause=1000&duration=2000&background=00000000&width=1000" alt="Typing SVG" style="display: block; margin: 0 auto;"></div>
 
