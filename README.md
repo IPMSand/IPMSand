@@ -3,7 +3,7 @@
 <div align="center"> <img src="https://readme-typing-svg.demolab.com/?lines=A+Computer+Science+Undergraduate.&font=Orbitron&size=20&color=3498DB&center=true&vCenter=true&pause=1000&duration=2000&background=00000000&width=1000" alt="Typing SVG" style="display: block; margin: 0 auto;"></div>
 
 <p align="center">
-  <kbd><img src ="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjU2YWJ0eWEzejJyeHQxNHR6c2NkYTQxZHhvdXczZWRpazdza3R0MSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/XaLMI3Nf8BqpnNGZgg/giphy.gif" height="250"></kbd>
+  <img src ="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjU2YWJ0eWEzejJyeHQxNHR6c2NkYTQxZHhvdXczZWRpazdza3R0MSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/XaLMI3Nf8BqpnNGZgg/giphy.gif" height="250">
 </p>
 
     
