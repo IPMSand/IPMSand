@@ -6,7 +6,7 @@
   <img src ="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjU2YWJ0eWEzejJyeHQxNHR6c2NkYTQxZHhvdXczZWRpazdza3R0MSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/XaLMI3Nf8BqpnNGZgg/giphy.gif" height="250">
 </p>
 
-# Who Am I...?
+# About Me
 - 😆  My GitHUB account: @IPMSand                                                                                                  
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning BSc(Hons) Computer Science in o University,coun. (2nd Yaer undergraduate)
