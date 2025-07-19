@@ -31,5 +31,8 @@
 IPMSand/IPMSand is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3YjJkamRldnQ5eXdvcXgyeWVpbHo3bzNhZnlsa2d1aTF2czJibXhydyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/iI9mw3gNVnPZllVSMG/giphy.gif" alt="Animated Background" width="600" style="display: block; margin: 0 auto;"></p>
 
+  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+Welcome!;+I'm+Maheshika+Sandamini;A+fish+in+sea.&font=Press+Start+2P&size=28&color=00FFFF&center=true&vCenter=true&pause=800&duration=2200&background=00000000)](https://git.io/typing-svg)
 
