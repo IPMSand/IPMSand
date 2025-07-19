@@ -1,10 +1,6 @@
-<p align="left">
-  <img src ="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3Y2oxMWZtbGdkbWJ6dmp2YjF5bmJ4dTFlcGE5eTFvNml0bzF1dmRnNCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/w1JffeP9urtEAiTuxr/giphy.gif" height="100">
-</p>
+<img src="https://readme-typing-svg.demolab.com/?lines=Hi!;I'm+Maheshika.&font=Orbitron&size=30&color=3498DB&center=true&vCenter=true&pause=1000&duration=2000&background=2C3E50&width=800" alt="Mysterious Intro Typing SVG" style="display: block; margin: 0 auto;">
 
-<a href="https://git.io/typing-svg" align = "center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=35&duration=2500&pause=50&color=0096FF&background=FFE33F00&center=true&width=636&lines=Hi+!;I'm+Maheshika+Sandamini" alt="Typing SVG">
-</a>
+<div align="center"> <img src="https://readme-typing-svg.demolab.com/?lines=From+Ocean.&font=Orbitron&size=20&color=3498DB&center=true&vCenter=true&pause=1000&duration=2000&background=00000000&width=1000" alt="Typing SVG" style="display: block; margin: 0 auto;"></div>
 
 <p align="center">
   <img src ="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjU2YWJ0eWEzejJyeHQxNHR6c2NkYTQxZHhvdXczZWRpazdza3R0MSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/XaLMI3Nf8BqpnNGZgg/giphy.gif" height="250">
@@ -13,7 +9,7 @@
     
 - 😆  My GitHUB account: @IPMSand                                                                                                  
 - 👀 I’m interested in ...
--  🌱 I’m currently learning BSc(Hons) Computer Science in Plymouth University, United Kingdom. (2nd Yaer undergraduate)
+-  🌱 I’m currently learning BSc(Hons) Computer Science in o University,coun. (2nd Yaer undergraduate)
 - 💞️ I’m looking to collaborate on various projects to practise my coding skills .Especailly on Java, C# and Python
 - 🪄Tech-related interests are Data science, Software engineering 
 - 📫 How to reach me ...
@@ -31,8 +27,5 @@
 IPMSand/IPMSand is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3YjJkamRldnQ5eXdvcXgyeWVpbHo3bzNhZnlsa2d1aTF2czJibXhydyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/iI9mw3gNVnPZllVSMG/giphy.gif" alt="Animated Background" width="600" style="display: block; margin: 0 auto;"></p>
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+Welcome!;+I'm+Maheshika+Sandamini;A+fish+in+sea.&font=Press+Start+2P&size=28&color=00FFFF&center=true&vCenter=true&pause=800&duration=2200&background=00000000)](https://git.io/typing-svg)
 
