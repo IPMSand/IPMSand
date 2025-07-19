@@ -6,7 +6,7 @@
   <img src ="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjU2YWJ0eWEzejJyeHQxNHR6c2NkYTQxZHhvdXczZWRpazdza3R0MSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/XaLMI3Nf8BqpnNGZgg/giphy.gif" height="250">
 </p>
 
-    
+## Who Am I?..
 - 😆  My GitHUB account: @IPMSand                                                                                                  
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning BSc(Hons) Computer Science in o University,coun. (2nd Yaer undergraduate)
@@ -19,7 +19,7 @@
 
 
 
-<h3 align="left">I'm Currently Learning </h3>
+## I'm Currently Learning 
 <p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a><a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>  </p>
 <h3 align="left">Projects I Have Done are: </h3>
 
