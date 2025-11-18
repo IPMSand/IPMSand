@@ -1,6 +1,4 @@
-<img src="https://readme-typing-svg.demolab.com/?lines=Hi!;I'm+Maheshika+Sandamini.&font=Orbitron&size=40&color=3498DB&center=true&vCenter=true&pause=1000&duration=2000&background=2C3E55&width=1000&height=100" alt="Mysterious Intro Typing SVG" style="display: block; margin: 0 auto;">
-
-<div align="center"> <img src="https://readme-typing-svg.demolab.com/?lines=A+Computer+Science+Undergraduate.&font=Orbitron&size=20&color=3498DB&center=true&vCenter=true&pause=1000&duration=2000&background=00000000&width=1000" alt="Typing SVG" style="display: block; margin: 0 auto;"></div>
+<div align="center"><h1>Hi! I'm Maheshika Sandamini 🌹</h1></div>
 
 <p align="center">
   <img src ="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcW55YzZ4M2N1ODZ3ODBucmt5Zjh2NXM5ZzA1bXNzMm16bndnbTVmZyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/xBAv4yTc5ASdTLs9jL/giphy.gif" height="250">
