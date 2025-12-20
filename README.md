@@ -7,9 +7,9 @@
 # About Me
 - 😆  My GitHUB account: @IPMSand                                                                                                  
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning BSc(Hons) Computer Science in o University,coun. (Final Yaer undergraduate student)
+- 🌱 I’m currently following an  BSc(Hons) Computer Science in Plymouth University,UK. (A final yaer undergraduate student)
 - 💞️ I’m looking to collaborate on various projects to practise my coding skills . ( C#, Python )
-- 🪄Tech-related interests are ....
+- 🪄Tech-related interests are .NET Development and AI/ML 
 - 📫 How to reach me ...
 - 😄 Pronouns: 
 - ⚡ Fun fact: I'm not lazy, I'm just on energy-saving mode 😴
