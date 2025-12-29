@@ -1,3 +1,5 @@
+# My Infomation :
+<div align="left"><h3>Name: Iththapana Payagalage Maheshika Sandamini</h3></div>
 <div align="center"><h1>Hi! I'm Maheshika Sandamini 🌹</h1></div>
 
 <p align="center">
