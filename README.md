@@ -1,5 +1,3 @@
-# My Infomation :
-<div align="left"><h3>Name: Iththapana Payagalage Maheshika Sandamini</h3></div>
 <div align="center"><h1>Hi! I'm Maheshika Sandamini 🌹</h1></div>
 
 <p align="center">
@@ -7,6 +5,7 @@
 </p>
 
 # About Me
+- <h3>Name: Iththapana Payagalage Maheshika Sandamini (**Iththapana Sandamini**) </h3>
 - 😆  My GitHUB account: @IPMSand                                                                                                  
 - 👀 I’m interested in ...
 - 🌱 I’m currently following an  BSc(Hons) Computer Science in Plymouth University,UK. (A final yaer undergraduate student)
